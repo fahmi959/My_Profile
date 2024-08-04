@@ -59,12 +59,12 @@
 <hr>
 
 
-<p><img align="center"  width ="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/></p>
+<p><img align="center"  width ="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/></p>
 
 <br>
 
 
-<img align= "right" alt ="gambar anime coding" width ="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align= "right" alt ="gambar anime coding" width ="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 
 
