@@ -20,7 +20,7 @@
 
 <img align= "right" alt ="gambar anime coding" width ="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
-<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+<br><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 
 
 <h3 align="left">Connect with me: </h3>
