@@ -7,7 +7,9 @@
       <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20views&color=0e75b6&style=flat" alt="fahmi959" />
          <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" />
            <img src="https://img.shields.io/badge/YoLo-Completed-red" alt="YoLo Badge" />
-    </p>
+   <a href="https://github.com/sponsors/fahmi959">
+        <img src="https://img.shields.io/badge/sponsor-available-purple" alt="GitHub Sponsors" />
+    </a></p>
 </div>
 
 <p align="left"> <a href="https://github.com/fahmi959/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" alt="fahmi959" /></a> </p>
@@ -74,7 +76,6 @@
 <p align="center">
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/>
 </p>
-
 
 
 
