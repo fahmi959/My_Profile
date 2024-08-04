@@ -56,6 +56,8 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p><hr>
 
+![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,arduino,react,figma,xd,idea,vscode,py,stackoverflow,git,github,postman,firebase,mongodb,supabase&perline=18)
+<hr>
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmi959&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=defaultk&langs_count=30" alt="fahmi959"/></p>
@@ -73,6 +75,7 @@
 </p>
 
 
+###  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++❤️ ❤️ 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 ❤️ ❤️ 
 
 
 
