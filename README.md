@@ -54,7 +54,17 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=default" alt="fahmi959" /> 
 <img align= "left" alt ="gambar anime coding" width ="295" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p>
-<br><br><br><br><br><br><br><br><hr>
+<br><br><br><br><br><br><br><br><hr><hr>
+
+
+<div>
+
+   <br />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/>
+</div>
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+
 
 
 
