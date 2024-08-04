@@ -64,11 +64,6 @@
 <br>
 
 
-<img align= "right" alt ="gambar anime coding" width ="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
-
-
-
-
 <img align='left' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <br><br><br><br><br><br><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 
