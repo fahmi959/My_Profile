@@ -2,7 +2,17 @@
 <h3 align="center">Software Developer Engineer from Indonesia</h3>
 
 
+<img align='left' width ="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<br><br>
+<img align= "right" alt ="gambar anime coding" width ="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+
+<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20views&color=0e75b6&style=flat" alt="fahmi959" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/fahmi959/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" alt="fahmi959" /></a> </p>
 
@@ -63,12 +73,6 @@
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/>
 </p>
 
-
-<img align='left' width ="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<br><br>
-<img align= "right" alt ="gambar anime coding" width ="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
-
-<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 
 
 
