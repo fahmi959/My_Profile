@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20views&color=0e75b6&style=flat" alt="fahmi959" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" alt="ryo-ma" /></a> </p>
-<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<p align="left"> <a href="https://github.com/fahmi959/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" alt="fahmi959" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/](https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/)
 
@@ -34,7 +34,7 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+<img src="https://laravel.com/assets/img/components/logo-laravel.svg" alt="Laravel" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
@@ -57,5 +57,14 @@
 <br><br><br><br><br><br><br><br><hr>
 
 
+<div>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&theme=nord&show_icons=true&include_all_commits=true&count_private=true"/>
+  &nbsp; &nbsp; &nbsp;
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi959&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
+   <br />
+   <br />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/>
+</div>
+<hr>
 
-
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
