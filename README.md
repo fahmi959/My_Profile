@@ -8,7 +8,7 @@
          <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" />
            <img src="https://img.shields.io/badge/YoLo-Completed-red" alt="YoLo Badge" />
    <a href="https://github.com/sponsors/fahmi959">
-        <img src="https://img.shields.io/badge/Sponsor-available | Donate on this button to get achievement in your profile-purple" alt="GitHub Sponsors" />
+        <img src="https://img.shields.io/badge/Sponsor-available-purple" alt="GitHub Sponsors" />
     </a></p>
 </div>
 
