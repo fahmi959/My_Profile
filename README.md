@@ -4,9 +4,9 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20views&color=0e75b6&style=flat" alt="fahmi959" />
-             <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" />
+     <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" />
         <img src="https://img.shields.io/badge/YoLo-Completed-red" alt="YoLo Badge" />
+         <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20views&color=0e75b6&style=flat" alt="fahmi959" />
     </p>
 </div>
 
