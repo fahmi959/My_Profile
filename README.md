@@ -57,14 +57,4 @@
 <br><br><br><br><br><br><br><br><hr>
 
 
-<div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&theme=nord&show_icons=true&include_all_commits=true&count_private=true"/>
-  &nbsp; &nbsp; &nbsp;
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi959&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
-   <br />
-   <br />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/>
-</div>
-<hr>
 
-<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
