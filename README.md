@@ -2,17 +2,7 @@
 <h3 align="center">Software Developer Engineer from Indonesia</h3>
 
 
-<img align='left' width ="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<br><br>
-<img align= "right" alt ="gambar anime coding" width ="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
-
-<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20views&color=0e75b6&style=flat" alt="fahmi959" /> </p>
-
-
 
 <p align="left"> <a href="https://github.com/fahmi959/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" alt="fahmi959" /></a> </p>
 
@@ -26,6 +16,13 @@
 - ⚡ Fun fact **I think I am funny**  
 <hr>
 
+<img align='left' width ="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<br><br>
+<img align= "right" alt ="gambar anime coding" width ="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+
+<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+
+
 <h3 align="left">Connect with me: </h3>
 
 <p align="left">
@@ -33,6 +30,8 @@
 <a href="https://instagram.com/ardgamingfahmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lord.ardiansyah.bae" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mediaserbabisa1474/videos"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="media serba bisa" height="30" width="40" /></a>
 </p><hr>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
