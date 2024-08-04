@@ -16,9 +16,9 @@
 - ⚡ Fun fact **I think I am funny**  
 <hr>
 
-<img align='left' width ="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align='left' width ="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <br><br>
-<img align= "right" alt ="gambar anime coding" width ="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align= "right" alt ="gambar anime coding" width ="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 
@@ -74,8 +74,6 @@
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/>
 </p>
 
-
-###  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
