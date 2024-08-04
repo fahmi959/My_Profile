@@ -15,7 +15,9 @@
 
 - ⚡ Fun fact **I think I am funny**  
 <hr>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me: </h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/" height="30" width="40" /></a>
 <a href="https://instagram.com/ardgamingfahmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lord.ardiansyah.bae" height="30" width="40" /></a>
@@ -46,25 +48,28 @@
 </p><hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmi959&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=defaultk&langs_count=30" alt="fahmi959"/></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmi959&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=defaultk&langs_count=30" alt="fahmi959"/></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&locale=en&include_all_commits=true&theme=default" alt="fahmi959" /></p><hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&locale=en&include_all_commits=true&theme=default" alt="fahmi959" /></p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=default" alt="fahmi959" /> 
-<img align= "left" alt ="gambar anime coding" width ="295" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p>
-<br><br><br><br><br><br><br><br><hr><hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=default" alt="fahmi959" /> </p>
 
-
-<div>
-
-   <br />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/>
-</div>
-<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<p><img align="left"  width ="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/></p>
 
 
 
+
+<img align= "right" alt ="gambar anime coding" width ="295" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+
+<br><br><br><br><br><br><hr>
+
+
+
+
+
+<img align='center' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
