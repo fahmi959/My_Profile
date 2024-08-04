@@ -56,20 +56,22 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=default" alt="fahmi959" /> </p>
-
-<p><img align="left"  width ="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/></p>
-
+<hr>
 
 
+<p><img align="center"  width ="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmi959&theme=nord_dark"/></p>
 
-<img align= "right" alt ="gambar anime coding" width ="295" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
-
-<br><br><br><br><br><br><hr>
+<br>
 
 
+<img align= "right" alt ="gambar anime coding" width ="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 
 
-<img align='center' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+
+
+<img align='left' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<br><br><br><br><br><br><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 
 
