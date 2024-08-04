@@ -60,14 +60,11 @@
 <hr>
 
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&locale=en&include_all_commits=true&theme=default" alt="fahmi959" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmi959&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=defaultk&langs_count=30" alt="fahmi959"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=default" alt="fahmi959" /> </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&locale=en&include_all_commits=true&theme=default" alt="fahmi959" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=default" alt="fahmi959" /> </p>
-<hr>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><hr>
 
 
 <p align="center">
